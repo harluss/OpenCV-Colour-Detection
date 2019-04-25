@@ -2,7 +2,7 @@
 
 A python scrypt using OpenCV library to detect blobs of selected colour in webcam's feed.
 
-The purpose of this project was to get familiar with OpenCV's color detection and filtering.
+The purpose of this project was to practice Python and get familiar with OpenCV's color detection and filtering.
 
 ### Usage
 
